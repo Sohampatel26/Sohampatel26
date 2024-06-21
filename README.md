@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Soham Patel
 
 I'm a passionate Data Scientist and Master's student at UC Irvine. I love working with data and have a deep interest in AI/ML, statistics, data analysis, and engineering. 
 

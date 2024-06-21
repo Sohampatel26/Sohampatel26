@@ -2,7 +2,7 @@
 
 I'm a passionate Data Scientist and Master's student at UC Irvine. I love working with data and have a deep interest in AI/ML, statistics, data analysis, and engineering. 
 
-![Profile views](https://gpvc.arturio.dev/yourusername) <!-- Profile view counter -->
+![Profile views](https://gpvc.arturio.dev/Sohampatel26) <!-- Profile view counter -->
 
 ## About Me
 
@@ -20,10 +20,10 @@ I'm a passionate Data Scientist and Master's student at UC Irvine. I love workin
 
 
 ## GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohampatel26&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamPatel26&layout=compact&theme=radical)
 
 ## Contact
 - **Email:** [sohamhp@uci.edu](mailto:sohamhp@uci.edu)
@@ -36,7 +36,7 @@ I'm a passionate Data Scientist and Master's student at UC Irvine. I love workin
 
 ## Weekly Development Breakdown
 <!-- Replace the username with yours -->
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sohampatel26&theme=radical)
 
 ## Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

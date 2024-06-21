@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**Sohampatel26/Sohampatel26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Data Scientist and Master's student at UC Irvine. I love working with data and have a deep interest in AI/ML, statistics, data analysis, and engineering. 
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/yourusername) <!-- Profile view counter -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🌱 I’m currently learning advanced machine learning techniques and data engineering.
+- 👯 I’m looking to collaborate on data science and machine learning projects.
+- 💬 Ask me about anything related to data, AI/ML, or statistics.
+- 📫 How to reach me: [sohamhp@uci.edu](mailto:sohamhp@uci.edu)
+- 😄 Pronouns: He/Him | She/Her | They/Them
+- ⚡ Fun fact: I love analyzing sports statistics and have a knack for finding patterns in unexpected places.
+
+## Skills
+- **Programming Languages:** Python, R, SQL
+- **Frameworks & Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn, GeoPandas, Rasterio
+- **Tools:** Jupyter, Google Colab, Git, Docker, Tableau, ArcGIS
+
+
+## GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## Contact
+- **Email:** [sohamhp@uci.edu](mailto:sohamhp@uci.edu)
+- **LinkedIn:** [soham-patel-](https://www.linkedin.com/in/soham-patel-/)
+
+---
+
+## Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## Weekly Development Breakdown
+<!-- Replace the username with yours -->
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical)
+
+## Badges
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)

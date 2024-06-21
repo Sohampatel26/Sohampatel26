@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Soham Patel
 
-I'm a passionate Data Scientist and Master's student at UC Irvine. I love working with data and have a deep interest in AI/ML, statistics, data analysis, and engineering. 
-
-![Profile views](https://gpvc.arturio.dev/Sohampatel26) <!-- Profile view counter -->
+I'm a passionate Data Scientist and Master's student at UC Irvine. I love working with data and have a deep interest in AI/ML, statistics, data analysis, and data engineering. 
 
 ## About Me
 

@@ -10,8 +10,7 @@ I'm a passionate Data Scientist and Master's student at UC Irvine. I love workin
 - 👯 I’m looking to collaborate on data science and machine learning projects.
 - 💬 Ask me about anything related to data, AI/ML, or statistics.
 - 📫 How to reach me: [sohamhp@uci.edu](mailto:sohamhp@uci.edu)
-- 😄 Pronouns: He/Him | She/Her | They/Them
-- ⚡ Fun fact: I love analyzing sports statistics and have a knack for finding patterns in unexpected places.
+- ⚡ Fun fact: I love analyzing data and have a knack for finding patterns in unexpected places.
 
 ## Skills
 - **Programming Languages:** Python, R, SQL
@@ -36,7 +35,7 @@ I'm a passionate Data Scientist and Master's student at UC Irvine. I love workin
 
 ## Weekly Development Breakdown
 <!-- Replace the username with yours -->
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sohampatel26&theme=radical)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SohamPatel26&theme=radical)
 
 ## Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

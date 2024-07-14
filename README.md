@@ -31,9 +31,6 @@ I'm a passionate Data Scientist and Master's student at UC Irvine. I love workin
 ## Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Weekly Development Breakdown
-<!-- Replace the username with yours -->
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sohampatel26&theme=radical)
 
 ## Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

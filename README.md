@@ -36,3 +36,7 @@ I'm a passionate Data Scientist and Master's student at UC Irvine. I love workin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Welcome!
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-Sohampatel26.visitor-count)
+

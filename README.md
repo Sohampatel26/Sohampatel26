@@ -37,6 +37,13 @@ I'm a passionate Data Scientist and Master's student at UC Irvine. I love workin
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Welcome!
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-Sohampatel26.visitor-count)
+### Feel Free to connect!
 
+<table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Sohampatel26/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
+
+**Here are few of my projects, feel free to explore and modify them! 😄**

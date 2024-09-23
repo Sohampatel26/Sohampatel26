@@ -19,7 +19,7 @@ A custom **MCQ generator** that utilizes **LLMs** through Langchain, automating 
 A collection of **machine learning concepts**, explained with detailed, easy-to-understand examples and code snippets. Ideal for beginners and intermediate learners.
 
 ### [EmpathAI](https://github.com/Sohampatel26/EmpathAI) - **In Progress**
-EmpathAI is an AI-powered mental health support platform leveraging a triple transformer model for real-time sentiment analysis and personalized coping mechanism generation. By analyzing user sentiment from a large dataset, the system offers therapeutic responses tailored to individual needs. Integrated with a fine-tuned Llama model and ChatGPT 3.0, EmpathAI enhances emotional intelligence, delivering 35% better coping suggestions and boosting mental health support through an AI-driven virtual buddy system.
+EmpathAI is an AI-powered mental health support platform leveraging a triple transformer model for real-time sentiment analysis and personalized coping mechanism generation. By analyzing user sentiment from a large dataset, the system offers therapeutic responses tailored to individual needs.
 
 ### [PromptPowerSQL](https://github.com/Sohampatel26/PromptPowerSQL)
 An AI-powered tool that translates natural language prompts into SQL queries, automating database interactions for non-technical users. Built using **Google’s Generative AI (Gemini)** and **Streamlit**.

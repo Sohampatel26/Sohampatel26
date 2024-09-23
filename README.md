@@ -19,9 +19,6 @@ I'm a passionate Data Scientist and Master's student at UC Irvine. I love workin
 ## GitHub Stats
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohampatel26&show_icons=true&theme=radical)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamPatel26&layout=compact&theme=radical)
-
 ## Contact
 - **Email:** [sohamhp@uci.edu](mailto:sohamhp@uci.edu)
 - **LinkedIn:** [soham-patel-](https://www.linkedin.com/in/soham-patel-/)

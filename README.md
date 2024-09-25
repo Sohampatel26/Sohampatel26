@@ -11,7 +11,9 @@ I’m a passionate Data Scientist and AI/ML researcher currently pursuing my Mas
 - ⚡ Fun fact: I love analyzing and interpreting large, messy datasets to find hidden patterns.
 
 ## Featured Projects
-Here are some of my key projects and Learnings.
+### [GOD-AI](https://github.com/Sohampatel26/GOD-AI)
+An AI app leveraging **RAG** and **Gemini Pro**, trained on religious texts from all faiths to answer philosophical, ethical, and personal questions. The app aims to solve real-world challenges with the wisdom from sacred texts.
+
 ### [MCQ Generator using LLM on Langchain](https://github.com/Sohampatel26/MCQ-Generator-using-LLM-on-Langchain)
 A custom **MCQ generator** that utilizes **LLMs** through Langchain, automating question creation for educational purposes.
 

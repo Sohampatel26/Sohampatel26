@@ -20,7 +20,7 @@ A custom **MCQ generator** that utilizes **LLMs** through Langchain, automating 
 ### [Revisiting ML](https://github.com/Sohampatel26/Revisiting-ML)
 A collection of **machine learning concepts**, explained with detailed, easy-to-understand examples and code snippets. Ideal for beginners and intermediate learners.
 
-### [EmpathAI](https://github.com/Sohampatel26/EmpathAI) - **In Progress**
+### [EmpathAI](https://github.com/Sohampatel26/Empath-AI) - **In Progress**
 EmpathAI is an AI-powered mental health support platform leveraging a triple transformer model for real-time sentiment analysis and personalized coping mechanism generation. By analyzing user sentiment from a large dataset, the system offers therapeutic responses tailored to individual needs.
 
 ### [PromptPowerSQL](https://github.com/Sohampatel26/PromptPowerSQL)

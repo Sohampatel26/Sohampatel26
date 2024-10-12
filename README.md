@@ -30,7 +30,7 @@ An AI-powered tool that translates natural language prompts into SQL queries, au
 A comprehensive repository for notes on **Generative AI**, frequently updated with new insights, research, experiments, and learning materials. This resource serves as an e
 
 
-### [MediBuddy](https://github.com/Sohampatel26/MediBuddy)
+### [MediBuddy](https://github.com/Sohampatel26/MediBuddy.)
 A medical assistant chatbot built with **LLMs** to provide accurate medical information and assistance based on symptoms, leveraging **Natural Language Processing (NLP)** and **Deep Learning**.
 
 ### [UCI Burn Database Creation & Pipelining](https://github.com/Sohampatel26/UCI-Burn-Database-creation-and-Pipelining)- **In Progress**
